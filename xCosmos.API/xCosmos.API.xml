@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>xCosmos.API</name>
+    </assembly>
+    <members>
+        <member name="T:xCosmos.API.Controllers.QRCodeController">
+            <summary>
+            二维码
+            </summary>
+        </member>
+        <member name="M:xCosmos.API.Controllers.QRCodeController.Generated(xCosmos.API.Models.GenerateQRCodeRequest)">
+            <summary>
+            生成二维码
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="T:xCosmos.API.Models.GenerateQRCodeRequest">
+            <summary>
+            生成二维码协议
+            </summary>
+        </member>
+        <member name="P:xCosmos.API.Models.GenerateQRCodeRequest.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+    </members>
+</doc>
